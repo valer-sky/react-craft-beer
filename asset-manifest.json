@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-craft-beer/static/css/main.10754f2e.css",
+    "main.js": "/react-craft-beer/static/js/main.0beeb92a.js",
+    "static/media/cart.jpg": "/react-craft-beer/static/media/cart.804d377d4d917b905d13.jpg",
+    "static/media/logo-image.jpg": "/react-craft-beer/static/media/logo-image.97d8d5d0e088e46d6f51.jpg",
+    "index.html": "/react-craft-beer/index.html",
+    "main.10754f2e.css.map": "/react-craft-beer/static/css/main.10754f2e.css.map",
+    "main.0beeb92a.js.map": "/react-craft-beer/static/js/main.0beeb92a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10754f2e.css",
+    "static/js/main.0beeb92a.js"
+  ]
+}
